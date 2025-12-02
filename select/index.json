@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "閃光",
+  "base_artist": "[Alexandros]",
+  "createdAt": "2025-12-02T08:54:55.850038Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "閃光 - Live at 東京国際フォーラム ホールA 2022.4.28 (THIS SUMMER FESTIVAL 2022)",
+      "artist": "[Alexandros]",
+      "has_synced": true,
+      "path": "select/01_閃光_-_Live_at_東京国際フォーラム_ホールA_2022.4.28_(THIS_SUMMER_FESTIVAL_2022)_[Alexandros].lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "閃光",
+      "artist": "[Alexandros]",
+      "has_synced": true,
+      "path": "select/02_閃光_[Alexandros].lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "閃光",
+      "artist": "Roselia",
+      "has_synced": true,
+      "path": "select/03_閃光_Roselia.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "閃光",
+      "artist": "Tokyo Ska Paradise Orchestra feat. 10-FEET",
+      "has_synced": true,
+      "path": "select/04_閃光_Tokyo_Ska_Paradise_Orchestra_feat._10-FEET.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "閃光",
+      "artist": "UA",
+      "has_synced": true,
+      "path": "select/05_閃光_UA.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "閃光",
+      "artist": "[Alexandros]",
+      "has_synced": false,
+      "path": "select/pl_01_閃光_[Alexandros].txt"
+    }
+  ]
+}
