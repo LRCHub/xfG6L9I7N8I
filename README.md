@@ -1,0 +1,67 @@
+# [Alexandros] – 閃光
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:35.77] Blinding lights are fading out from the night
+[00:39.33] あどけない夢掲げた
+[00:42.24] 痛みを知らない赤子のように
+[00:48.74] 
+[00:45.25] Thunders calling to my ears all the time
+[00:48.83] 揺れる心隠した
+[00:51.58] 痛みを覚えた子供のようにって
+[00:58.58] 
+[00:54.49] I'm scared to death and it's so cold all the time
+[00:58.10] 当たり散らし乱れた
+[01:00.44] 認めたくない過去思い出して
+[01:06.94] 
+[01:03.41] Take the sword and get prepared for the fight
+[01:06.47] 気づけばいつのまにか
+[01:09.77] 新しい世界に染まりだしていく
+[01:16.77] 
+[01:13.08] Teach me how to fly
+[01:15.88] これ以上泣かないで
+[01:19.44] 羽ばたけるように
+[01:23.44] 
+[01:22.50] "Just take one deep breath
+[01:24.83] And hold it still until you see your enemies inside your scope"
+[01:56.33] 
+[01:30.50] 鳴らない言葉をもう一度描いて
+[01:35.03] 赤色に染まる時間を置き忘れ去れば
+[01:39.84] 哀しい世界はもう二度となくて
+[01:44.65] 荒れた陸地が こぼれ落ちていく 一筋の光へ
+[01:55.15] 
+[02:00.94] Blinding lights are falling down from the sky
+[02:04.72] あどけない夢思い出す
+[02:07.56] 心を落とした大人のように
+[02:13.56] 
+[02:10.48] Speak out the words and get prepared for the fight
+[02:14.47] 気づけばいつのまにか
+[02:16.10] 新しい世界を紡ぎ出していけ
+[02:22.60] 
+[02:20.58] Now I've learned to fly
+[02:23.16] これ以上泣かないよ
+[02:26.08] 明日にはいないから
+[02:30.58] 
+[02:28.94] "Gonna take one deep breath
+[02:31.63] And hold it still until I see my enemies inside the scope"
+[03:00.63] 
+[02:37.62] くだらない言葉をもう一度叫んで
+[02:42.28] 鳴らないことなく孤独ラトゥになれば
+[02:46.77] 新しい世界はもうそこにあって
+[02:51.34] 開け放たれた 碧すぎる空 一粒の涙
+[02:59.84] 
+[02:58.57] A long time ago, there was a king of worlds
+[03:02.15] Who led me down my path
+[03:04.04] Through night and day, he showed the truths
+[03:05.91] Of the worlds and the shapes that I need to be
+[03:28.91] 
+[03:08.27] But after all, I cast a shadow under a light from my own sky
+[03:38.27] 
+[03:14.41] And I think that this is something that I want (oh oh oh oh)
+[03:44.41] 
+[03:39.08] 鳴らない言葉をもう一度描いて
+[03:43.64] 赤色に染まる時間を置き忘れ去れば
+[03:47.99] 哀しい世界はもう二度となくて
+[03:51.81] 荒れた陸地が こぼれ落ちていく 一筋の光へ yeah
+```
