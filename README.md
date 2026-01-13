@@ -1,4 +1,4 @@
-# [Alexandros] – 閃光
+# [Alexandros] – 閃光 - Senkou
 
 > **歌詞登録ステータス：同期歌詞あり**
 
